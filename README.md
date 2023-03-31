@@ -1,0 +1,4 @@
+- install LTS of [Node.js](https://nodejs.org/en)
+- in the directory of this folder run `npm install`
+- then `npm run build`
+- then `npm run dev`
